@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <!--Fundo dos botões de ação-->
+    <color name="azul">#5d38e0</color>
+    <!--Fundo dos botões numericos-->
+    <color name="roxinho">#ab76ff</color>
+</resources>
